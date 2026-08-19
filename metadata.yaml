@@ -1,0 +1,15 @@
+name: astrbot_plugin_group_cup
+display_name: 群杯子
+short_desc: 每天随机抽取一名群友作为群杯子，附带排行榜功能
+desc: "检测到'^群杯子'指令后，在群友中随机抽取一名作为当天的群杯子。每天同一群只抽一次，仅群主/管理员可用。'^群杯子排行'查看历史排行榜前十名。"
+version: v1.0.0
+author: bush
+repo: ""
+social_link: ""
+astrbot_version: ">=4.15.0"
+support_platforms:
+  - aiocqhttp
+tags:
+  - 趣味
+  - 群互动
+  - 抽奖

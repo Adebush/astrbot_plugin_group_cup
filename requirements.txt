@@ -1,0 +1,2 @@
+# AstrBot 群杯子插件无外部依赖
+# 所有功能基于 Python 标准库和 AstrBot 框架自带 API
